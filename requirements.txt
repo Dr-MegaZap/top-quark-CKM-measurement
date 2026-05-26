@@ -1,0 +1,10 @@
+# Data Extraction (ROOT files)
+uproot>=5.0.0
+awkward>=2.0.0
+
+# Numerical & Statistical Modeling
+numpy>=1.21.0
+iminuit>=2.0.0
+
+# Visualization
+matplotlib>=3.5.0
